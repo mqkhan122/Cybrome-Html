@@ -1,0 +1,44 @@
+body
+{
+	background-color: yellow;
+}
+table
+{
+	background-color: whitesmoke;
+}
+h1
+{
+	font-family: arial;
+	font-size: 50px;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration-color: darkred;
+}
+
+.menu
+{
+	text-decoration: none;
+	font-family: Algerian;
+	font-size: 20px;
+	color: blueviolet;
+}
+a.menu:hover
+{
+	text-decoration: underline;
+	font-family: Algerian;
+	font-size: 20px;
+	color: black;
+}
+.content
+{
+	font-family: monospace;
+	font-size: 15px;
+	
+}
+#copy
+{
+	color: darkred;
+	text-decoration: overline;
+	font-size: 20px;
+	font-weight: bold;
+}
